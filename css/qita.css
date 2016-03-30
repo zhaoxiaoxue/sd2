@@ -1,0 +1,17 @@
+
+.kap{
+    display: inline-block;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    height:7.5rem;
+    width:48%;
+    border-radius: 15px;
+    background: #fff;
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 6px #999;
+}
+
+.kapi{
+    width: 100%;
+    margin-bottom: 2rem;
+}
